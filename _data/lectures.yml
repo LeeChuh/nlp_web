@@ -111,6 +111,8 @@
   annotated:
     - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/Ec_TZKc9mO9GjvXGu1Ozp5IBxQOSDy7WcIskC2oUoT2gEA?e=SJToSK
   readings:
+    - The Matrix Calculus You Need For Deep Learning (Terence Parr and Jeremy Howard) <a href="https://arxiv.org/pdf/1802.01528.pdf" target="_blank">[link]</a>
+    - Little book of deep learning (François Fleuret) - Ch 3
   optional:
   logistics: <strong>2/11</strong> HW 1 due; HW 2 out
 
@@ -120,10 +122,12 @@
   title:
     - Autograd
     - Building blocks of Neural Networks
+    - Convolutional layers
     - Network layers and optimizers
   slides:
     - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/ES1wx8539bNEvVafC0Utqw4B1RYtLo8q7xf5t80CZN0WiA?e=66NJkU
   readings:
+    - Little book of deep learning (François Fleuret) - Ch 4
   optional:
   logistics: <br/>  Project teams due
 
@@ -133,10 +137,11 @@
   title:
     - Building blocks of Neural Networks for NLP
     - Taks specific neural network architectures
-    - CNNs and RNNs
+    - RNNs
   slides:
     - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/ERiCgJVHJoxMreRomSuVlHkBc2IfZPv7K6JRV7JfsSW5OQ?e=1HGdDK
   readings:
+    - Goldberg Chapter 9
   optional:
   logistics:
 
