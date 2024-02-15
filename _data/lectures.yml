@@ -131,9 +131,11 @@
   lecturer:
     - Arman
   title:
-    - Machine translation (cont.)
-    - Transformers
+    - Building blocks of Neural Networks for NLP
+    - Taks specific neural network architectures
+    - CNNs and RNNs
   slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/ERiCgJVHJoxMreRomSuVlHkBc2IfZPv7K6JRV7JfsSW5OQ?e=1HGdDK
   readings:
   optional:
   logistics:
@@ -142,7 +144,7 @@
   lecturer:
     - Arman
   title:
-    - Transformers (cont.)
+    - Transformers
     - Complexity analysis and efficiency
   slides:
   readings:
