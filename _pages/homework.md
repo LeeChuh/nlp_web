@@ -4,9 +4,37 @@ permalink: /homework/
 title: Homework Assignments
 ---
 
-## Homework 1
-
 All homeworks should be submitted through Gradscope.
+
+## Homework 2
+
+The goal of this homework is to get you familiar with language modeling evaluation, sequence labeling and part-of-speech tagging.  
+You will implement evaluation metrics such as perplexity, classic HMM-based sequence tagging methods and the viterbi algorithm.  
+You will train a Neural BiLSTM tagger and compare it with the HMM-based tagger that you implemented.
+
+### Part 1: Language model evaluation
+
+You will implement the perplexity evaluation metric and investigate a few simple bigram language model performances.
+You will also investigate the data and corpus perplexity scores.
+
+### Part 2: Sequence Labeling
+
+In this part you will implement the classic HMM-based sequence tagging methods and the viterbi algorithm.
+
+### Part 3: Neural POS Tagging
+
+You will train a Neural BiLSTM tagger and compare it with the HMM-based tagger that you implemented.
+
+The detailed instructions are provided in the Colab notebook.
+
+### Getting started
+
+All necessary instructions, including step-by-step guidance and required data for all parts, are provided in the following single Colab notebook. 
+
+[Access the Colab Notebook Here](https://colab.research.google.com/drive/1B-z4ngeTQqkL5Yy-yHoNyKXEf2PMIX-z?usp=sharing)
+
+
+## Homework 1
 
 ### Part 1: Concepts component - Handout (25 points)
 
