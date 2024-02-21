@@ -149,9 +149,10 @@
   lecturer:
     - Arman
   title:
-    - Transformers
-    - Complexity analysis and efficiency
+    - RNNs (contd.)
+    - Machine translation
   slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EaMBM49iy99OgSxtKwY_07QBM5Yv13WmZKo6YJQxkyHs0Q?e=gliNKB
   readings:
   optional:
   logistics:
@@ -159,8 +160,8 @@
 - date: Thu 02/22/24
   lecturer:
   title:
-    - Pretraining
-    - Transfer learning
+    - Attention
+    - Transformers
   slides:
   readings:
   optional:
