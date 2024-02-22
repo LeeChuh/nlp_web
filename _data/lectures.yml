@@ -169,6 +169,7 @@
   slides:
     - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/Ef_iXtVCYUpFh9hVl3GaGe0BhoRmh7MOPVh6c6Qv6I0zSQ?e=e0aPOG
   readings:
+    - Statistical Machine Translation (Koehn) <a href="https://www.statmt.org/book/" target="_blank">[link]</a>
     - Neural Machine Translation and Sequence-to-sequence Models- A Tutorial (Graham Neubig) <a href="https://arxiv.org/pdf/1703.01619.pdf" target="_blank">[link]</a>
     - Learning to Align and Translate with Attention (Bahdanau et al., 2015) <a href="https://arxiv.org/pdf/1409.0473.pdf" target="_blank">[link]</a>
     - Luong et al. (2015) Effective Approaches to Attention-based Neural Machine Translation <a href="https://arxiv.org/pdf/1508.04025.pdf" target="_blank">[link]</a>
