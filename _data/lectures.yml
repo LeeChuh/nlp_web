@@ -209,6 +209,7 @@
     - Model architectures
     - ELMO, BERT, GPT, T5
   slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EesU400ugbNDsBX5g-_FKOEBTvvZi2IaLAOE_bFitKEyLQ?e=LtwxP4
   readings:
     - The Illustrated BERT, ELMo, and co. (Jay Alammar) <a href="http://jalammar.github.io/illustrated-bert/" target="_blank">[link]</a>
     - BERT- Pre-training of Deep Bidirectional Transformers for Language Understanding (Devlin et al., 2018) <a href="https://arxiv.org/pdf/1810.04805.pdf" target="_blank">[link]</a>
