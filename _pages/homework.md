@@ -6,6 +6,26 @@ title: Homework Assignments
 
 All homeworks should be submitted through Gradscope.
 
+## Homework 3
+
+The goal of this homework is to get familiar with implementation of language models and transformers.  
+Additionally, you will explore transfer learning and see how you can apply a pre-trained and fine-tuned language model to the text summarization task..
+
+**Due date: 4/2/24**
+
+### Part 1: Implementing a transformer language modeling pipeline from scratch
+
+You will implement a transformer language model from scratch. This involves implementing the input pipeline as well as the model itself.  
+All necessary instructions, including step-by-step guidance and required data for all parts, are provided in the following single Colab notebook.  
+[Access the Colab Notebook-1 Here](https://colab.research.google.com/drive/1vZc10QQ-OVcjs3vFL6LLi1V9VEKw7fZr?usp=sharing)
+
+### Part 2
+
+In this part, you will explore transfer learning and see how you can apply a pre-trained and fine-tuned language model to the text summarization task.  
+You will also implement decoding methods such as greedy decoding and beam search decoding and see their impact on the quality of the generated summaries.  
+All necessary instructions, including step-by-step guidance and required data for all parts, are provided in the following single Colab notebook.
+[Access the Colab Notebook-2 Here](https://colab.research.google.com/drive/1_17w4QWLo3_hSaYqgIzZr0SsN6u2qugw?usp=sharing)
+
 ## Homework 2
 
 The goal of this homework is to get you familiar with language modeling evaluation, sequence labeling and part-of-speech tagging.  

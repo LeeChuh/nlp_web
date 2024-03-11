@@ -238,7 +238,7 @@
     - What Language Model Architecture and Pretraining Objective Work Best for Zero-Shot Generalization? (Wang et al, 2022) <a href="https://arxiv.org/abs/2204.05832" target="_blank">[link]</a>
   optional:
   logistics:
-    - <strong>3/8</strong> Project proposals due; HW 3 out
+    - <strong>3/8</strong> Project proposals due;<br/> <strong>3/10</strong> HW 3 out
 
 - date: 03/08/24 - 03/24/24
   title: >
@@ -264,7 +264,7 @@
   title:
     - Retreival-Augmented Language Models
   recitation:
-  logistics: <strong>3/30</strong> HW3 due
+  logistics:
 
 - date: Tues 04/02/24
   lecturer: Arman
@@ -273,7 +273,7 @@
   slides:
   readings:
   optional:
-  logistics: HW 4 out
+  logistics: <strong>2/4</strong> HW3 due; <br/> HW 4 out
 
 - date: Thu 04/04/24
   title:
