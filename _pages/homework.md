@@ -19,7 +19,7 @@ You will implement a transformer language model from scratch. This involves impl
 All necessary instructions, including step-by-step guidance and required data for all parts, are provided in the following single Colab notebook.  
 [Access the Colab Notebook-1 Here](https://colab.research.google.com/drive/1vZc10QQ-OVcjs3vFL6LLi1V9VEKw7fZr?usp=sharing)
 
-### Part 2
+### Part 2: Text summarization with pre-trained language models and decoding methods
 
 In this part, you will explore transfer learning and see how you can apply a pre-trained and fine-tuned language model to the text summarization task.  
 You will also implement decoding methods such as greedy decoding and beam search decoding and see their impact on the quality of the generated summaries.  
