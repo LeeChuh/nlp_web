@@ -248,10 +248,17 @@
   lecturer:
     - Arman
   title:
+    - Decoding and generation
     - Large language models and impact of scale
     - In-context learning and prompting
   slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EUrW0FlXakBEu946oVPDFrYBtiWwHrVUePekVXtZCwfJ9A?e=eNwrII
   readings:
+    - The Curious Case of Neural Text Degeneration (Holtzman et al., 2019) <a href="https://arxiv.org/pdf/1904.09751.pdf" target="_blank">[link]</a>
+    - How to generate text- using different decoding methods for language generation with Transformers <a href="https://huggingface.co/blog/how-to-generate" target="_blank">[link]</a>
+    - Scaling Laws for Neural Language Models (Kaplan et al., 2020) <a href="https://arxiv.org/pdf/2001.08361.pdf" target="_blank">[link]</a>
+    - Training Compute-Optimal Large Language Models (Hoffmann et al., 2022) <a href="https://arxiv.org/pdf/2203.15556.pdf" target="_blank">[link]</a>
+    - GPT3 paper - Language Models are Few-Shot Learners (Brown et al., 2020) <a href="https://arxiv.org/pdf/2005.14165.pdf" target="_blank">[link]</a>
   optional:
   logistics:
 
@@ -269,11 +276,11 @@
 - date: Tues 04/02/24
   lecturer: Arman
   title:
-    - Multilingual NLP
+    - In-context learning and prompting (cont'd)
   slides:
   readings:
   optional:
-  logistics: <strong>2/4</strong> HW3 due; <br/> HW 4 out
+  logistics: <strong>4/2</strong> HW3 due; <br/> HW 4 out
 
 - date: Thu 04/04/24
   title:
