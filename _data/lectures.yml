@@ -288,7 +288,7 @@
     - Are Emergent Abilities of Large Language Models a Mirage? (Sha et al., 2023) <a href="https://arxiv.org/pdf/2304.15004.pdf" target="_blank">[link]</a>
     - Emergent Abilities of Large Language Models (Wei et al., 2022) <a href="https://arxiv.org/abs/2206.07682" target="_blank">[link]</a>
   optional:
-  logistics: <strong>4/2</strong> HW3 due; <br/> HW 4 out
+  logistics: <strong>4/2</strong> HW3 due;
 
 - date: Thu 04/04/24
   title:
@@ -297,8 +297,12 @@
   slides:
     - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EdDHt6zppENDrml1Vxej_AYBu2D_oDZFfTA-lsX3rCbA1Q?e=DOCNxU
   readings:
+    - Training language models to follow instructions with human feedback (Ouyang et al., 2022) <a href="https://arxiv.org/abs/2203.02155" target="_blank">[link]</a>
+    - Fine-Tuning Language Models from Human Preferences (Ziegler et al., 2019) <a href="https://arxiv.org/abs/1909.08593" target="_blank">[link]</a>
+    - Direct Preference Optimization- Your Language Model is Secretly a Reward Model (Rafailov et al., 2023) <a href="https://arxiv.org/abs/2305.18290" target="_blank">[link]</a>
+    - RLAIF- Scaling Reinforcement Learning from Human Feedback with AI Feedback (Lee et al., 2023) <a href="https://arxiv.org/abs/2309.00267" target="_blank">[link]</a>
   optional:
-  logistics:
+  logistics: HW 4 out 4/7
 
 - date: Tues 04/09/24
   guest:
@@ -307,9 +311,11 @@
       profile: https://soldaini.net/
       affil: Allen Institute for AI
   title:
-    - Data-Centric NLP
+    - The Quest to build an (O)pen (L)anguage (Mo)del
   slides:
   readings:
+    - OLMo- Accelerating the Science of Language Models (Groeneveld et al., 2024) <a href="https://arxiv.org/abs/2402.00838" target="_blank">[link]</a>
+    - Dolma- an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research <a href="https://arxiv.org/abs/2402.00159" target="_blank">[link]</a>
   optional:
   logistics:
 
@@ -342,7 +348,7 @@
   slides:
   readings:
   optional:
-  logistics: HW 4 due
+  logistics: HW 4 due 4/21
 
 - date: Tues 04/23/24
   lecturer: Arman

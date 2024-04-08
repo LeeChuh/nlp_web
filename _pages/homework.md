@@ -6,6 +6,24 @@ title: Homework Assignments
 
 All homeworks should be submitted through Gradscope.
 
+## Homework 4
+
+The goal of this homework is to understand how to fine-tune language models with preference feedback using the Direct Preference Optimization (DPO) framework. You will also learn how to implement a training pipeline for language models.
+
+### Part 1: Concepts component - Handout
+
+Download the homework handout from the following link: [[Download]](https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/ERm2dFBNpsRDsyhJnSFf7a0BZNoDMiQ5_OnV-0JITOTo9g?e=zBhe3Z).
+
+For this part, you need to complete the homework in LaTeX and return the pdf solution. Further instructions are provided in the pdf.
+
+### Part 2: Hands-on excercise - Fine-tuning language models with preference feedback
+
+In this part, you will implement a training pipeline for language models and fine-tune them with preference feedback using the Direct Preference Optimization (DPO) framework. You will also evaluate the performance of the fine-tuned models on a text classification task.
+The detailed instructions are provided in the Colab notebook.
+
+Access the Colab Notebook Here: [Colab Notebook](https://colab.research.google.com/drive/1w7qgnHvRoZ2A7f8VIQ1NHIwp41rSsG5y?usp=sharing)
+
+
 ## Homework 3
 
 The goal of this homework is to get familiar with implementation of language models and transformers.  
