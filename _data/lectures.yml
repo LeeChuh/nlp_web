@@ -348,7 +348,7 @@
   slides:
   readings:
   optional:
-  logistics: HW 4 due 4/21
+  logistics:
 
 - date: Tues 04/23/24
   lecturer: Arman
@@ -364,7 +364,7 @@
   title:
     - Project presentations
   logistics:
-    - Last meeting of the class; <br/> <strong>5/8</strong> Final project due
+    - Last meeting of the class; <br/>  <strong>4/28</strong> HW 4 due <br/> <strong>5/8</strong> Final project due
 ## Template for guest lectures:
 # - date: Thu 11/30/23
 #   title: Towards Large Foundation Vision Models
