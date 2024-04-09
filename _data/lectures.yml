@@ -313,6 +313,7 @@
   title:
     - The Quest to build an (O)pen (L)anguage (Mo)del
   slides:
+    - https://docs.google.com/presentation/d/1UKTtRYWD43mhPAX9CRmp-uLa7fuw1vO4yp7JoOFrZzU/edit
   readings:
     - OLMo- Accelerating the Science of Language Models (Groeneveld et al., 2024) <a href="https://arxiv.org/abs/2402.00838" target="_blank">[link]</a>
     - Dolma- an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research <a href="https://arxiv.org/abs/2402.00159" target="_blank">[link]</a>
