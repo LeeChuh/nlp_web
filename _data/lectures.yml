@@ -338,17 +338,22 @@
       profile: https://ai.meta.com/people/jason-weston/
       affil: Meta AI
   title:
-    - TBD
+    - Self-Alignment of Large Language Models
   slides:
   readings:
+    - Self-Alignment with Instruction Backtranslation (Li et al., 2023) <a href="https://arxiv.org/abs/2308.06259" target="_blank">[link]</a>
+    - Self-Rewarding Language Models (Yuan et al., 2024) <a href="https://arxiv.org/abs/2401.10020" target="_blank">[link]</a>
   optional:
   logistics:
 
 - date: Thu 04/18/24
   lecturer: Arman
   title:
-    - TBD
+    - Efficiency in large language models
+    - Efficient inference and quantization
+    - Efficient transformers
   slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/ESj4ltg3zldMkUtbEYNpu8IBEPW5yz5qu-xG6STzWXl8aQ?e=bEBuUL
   readings:
   optional:
   logistics:
