@@ -175,3 +175,18 @@
   members: "Runqiu Zhang"
   abstract: "Our study introduces 'In Sync with Stories,' a recommendation system designed to match books with readers' narrative tastes. The system uses Latent Dirichlet Allocation (LDA) to analyze introductory book texts, aligning them with user-provided inputs. By understanding readers' preferences, this genreaware system recommends books that closely resonate with the requested themes. Utilizing a dataset of science fiction titles, the system identifies topics and matches introductions with user preferences through KL-divergence scoring. The results are promising, with the recommendations accurately reflecting relevant narrative genres. While the current implementation relies on LDA, future work will explore integrating deep learning models to enhance accuracy. GitHub Link is here:"
   link: "https://yaleedu-my.sharepoint.com/:b:/r/personal/arman_cohan_yale_edu/Documents/courses/cpsc477-sp24/project-reports/zhangrunqiu_167927_9500207_NLP_Final_Version.pdf?csf=1&web=1&e=CchmSD"
+
+- title: "Adapting Transformer Model for Live EN to CN Translation"
+  members: "Jason Zheng, Kenny Li"
+  abstract: "In this paper, we construct the framework for a machine translation model designed to facilitate real-time, bidirectional communication between English and Chinese speakers, specifically addressing the unique linguistic challenges faced by multigenerational immigrant families. Our approach leverages an encoder-decoder architecture enhanced with multi-head self-attention mechanisms to ensure that both linguistic accuracy and cultural nuances are preserved in translations. By potentially integrating this model with a user-friendly interface in the future, we aim to provide a practical tool for immediate language translation, thereby reducing the emotional and practical challenges associated with language barriers within these communities."
+  link: "https://yaleedu-my.sharepoint.com/:b:/r/personal/arman_cohan_yale_edu/Documents/courses/cpsc477-sp24/project-reports/zhengjason_148859_9500662_CPSC_477_Final_Project_Paper.pdf?csf=1&web=1&e=6W47ez"
+
+- title: "Unpacking Large Language Model's Performance on Quantitative Understanding:NumEval @ SemEval - 2024"
+  members: "Jielan Helen Zheng, Xiaomeng Miranda Zhu"
+  abstract:
+  link: "https://yaleedu-my.sharepoint.com/:b:/r/personal/arman_cohan_yale_edu/Documents/courses/cpsc477-sp24/project-reports/zhumiranda_192081_9500880_Zheng_Zhu_577_Final_Report.pdf?csf=1&web=1&e=sWowtN"
+
+- title: "Supreme Court Verdict Prediction with LLMs"
+  members: "Zachary Zitzewitz, Raja Moreno, Tom Sutter"
+  abstract: "In this paper, we investigate several approaches to applying language models to predicting United States Supreme Court case outcomes ${ }^1$. We use GPT-2 combined with a classification head to perform text classification on the facts and legal question of the case. We also use LLaMA-2 to perform open-ended generation based on the facts of the case that we then classify to make a final prediction. Despite testing several language models and architectures, we were unable to attain accuracy scores better than human evaluation, task-specific architectures, or even simple heuristics. However, fine-tuning LLaMA-2 on our dataset led to improved accuracy scores. We conclude that language models may not be natively well-suited to predicting Supreme Court outcomes, but that fine-tuning on tailored datasets can improve their capabilities in this task."
+  link: "https://yaleedu-my.sharepoint.com/:b:/r/personal/arman_cohan_yale_edu/Documents/courses/cpsc477-sp24/project-reports/zitzewitzzachary_172383_9497403_CPSC%20477%20Final%20Project.pdf?csf=1&web=1&e=b8uPBx"
