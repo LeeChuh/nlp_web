@@ -1,7 +1,7 @@
 ---
 layout: project
 permalink: /student-projects/
-title: Projects completed our amazing students
+title: Projects completed by our amazing students
 description: Final projects completed by amazing students of Spring 2024.
 ---
 
