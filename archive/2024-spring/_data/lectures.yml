@@ -1,0 +1,391 @@
+- date: Tues 01/16/24
+  lecturer:
+    - Arman
+  title:
+    - Course Introduction
+    - Logistics
+  slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/ETCct0hAG_5ArJrmp9dmCXkBxAC3FohCPCG3598pGJW5zg?e=xFSggj
+  readings:
+    - Jurafsky & Martin Chapter 1
+  optional:
+  logistics:
+
+- date: Thu 01/18/24
+  lecturer:
+    - Arman
+  title:
+    - Text classification
+    - Generative Models vs Discriminative Models
+  slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EcxUZBofuW1DlRYjj5qT1YABaTCCo40PXx1VcZ_Ql1fp4w?e=w4wWEz
+  readings:
+    - Jurafsky & Martin Chapter 4 & 5
+  optional:
+  logistics:
+
+- date: Tues 01/23/24
+  lecturer:
+    - Arman
+  title:
+    - Text classification (cont.)
+    - Evaluation
+    - N-Gram Language Models
+  slides:
+    -
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EfjIR61nWPJOvqYSvrWyyHAB9xb5Ed1cNaOrB-eaTXbF-g?e=pK1Yes
+  readings:
+    - Jurafsky & Martin Chapter 4
+    - Jurafsky & Martin Chapter 3
+  optional:
+    - The Hitchhiker’s Guide to Testing Statistical Significance in Natural Language Processing (Dror et al., 2018) [link](https://aclanthology.org/P18-1128.pdf)
+  logistics:
+
+- date: Thu 01/25/24
+  lecturer:
+    - Arman
+  title:
+    - Word embeddings and vector semantics
+  notes:
+  slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EcHutvO12e5NlsGr5d_EfBsBbYSE1A0a3CqjRuiw9jpFXg?e=HBbULV
+  readings:
+    - Jurafsky & Martin Chapter 6
+  optional:
+  logistics: HW1 out 1/29
+
+- date: Tues 01/30/24
+  lecturer:
+    - Arman
+  title:
+    - Word embeddings and vector semantics (cont.)
+  slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EY6Box1cMrVAtYjez9RzYeMBF-3Uuxhs5jnrLTF3zyLlyw?e=zheh6y
+  readings:
+    - Jurafsky & Martin Chapter 6
+  optional:
+    - Distributed Representation of Words and Phrases and their Compositionality (Mikolov et al., 2013) <a href="https://arxiv.org/pdf/1310.4546.pdf" target="_blank">[link]</a>
+    - Efficient Estimation of Word Representations in Vector Space (Mikolov et al., 2013) <a href="https://arxiv.org/pdf/1301.3781.pdf" target="_blank">[link]</a>
+    - Word2vec Explained- deriving Mikolov et al.'s negative-sampling word-embedding method (Goldberg and Levy, 2014) <a href="https://arxiv.org/pdf/1402.3722.pdf" target="_blank">[link]</a>
+  logistics:
+
+- date: Thu 02/01/24
+  lecturer:
+    - Arman
+  title:
+    - Information theory
+    - Sequence labeling
+  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EVf6bDfRzuBMrkX-WlODkP4B7Yj_j-ZzcJE3ONYlRtkLZg?e=9YpQ0b
+  readings:
+    - Eisenstein Chapter 7
+  optional:
+  logistics:
+
+- date: Fri 02/02/24 <br/> 2:00-3:00pm
+  lecturer:
+    - Rohan
+  recitation: Numpy and Pytorch Tutorial Session
+
+- date: Tues 02/06/24
+  lecturer:
+    - Arman
+  title:
+    - Sequential classification
+    - Conditional Random Fields
+  slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/ESkwTVFmFANPq9U86kZvCOoB-Bu8lFg_ssY8Xa0zsBT8PQ?e=bn8umm
+  readings:
+    - Eisenstein 7.1-7.3
+    - Micheal Collins' notes on CRFs <a href="http://www.cs.columbia.edu/~mcollins/crf.pdf" target="_blank">[link]</a>
+  optional:
+    - Lafferty et al. (2001) Conditional Random Fields- Probabilistic Models for Segmenting and Labeling Sequence Data <a href="https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers" target="_blank">[link]</a>
+    - Sutton and McCallum (2010) An Introduction to Conditional Random Fields <a href="https://people.cs.umass.edu/~mccallum/papers/crf-tutorial.pdf" target="_blank">[link]</a>
+  logistics:
+
+- date: Thu 02/08/24
+  lecturer:
+  title:
+    - Basics of Neural Networks and Language Model Training
+  slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EcUN_fZ1N3FHktlUitsm6YcBxMqb2swwMm3gSsBhKIBMHA?e=wPhsSO
+  annotated:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/Ec_TZKc9mO9GjvXGu1Ozp5IBxQOSDy7WcIskC2oUoT2gEA?e=SJToSK
+  readings:
+    - The Matrix Calculus You Need For Deep Learning (Terence Parr and Jeremy Howard) <a href="https://arxiv.org/pdf/1802.01528.pdf" target="_blank">[link]</a>
+    - Little book of deep learning (François Fleuret) - Ch 3
+  optional:
+  logistics: <strong>2/11</strong> HW 1 due
+
+- date: Tues 02/13/24
+  lecturer:
+    - Arman
+  title:
+    - Autograd
+    - Building blocks of Neural Networks
+    - Convolutional layers
+    - Network layers and optimizers
+  slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/ES1wx8539bNEvVafC0Utqw4B1RYtLo8q7xf5t80CZN0WiA?e=66NJkU
+  readings:
+    - Little book of deep learning (François Fleuret) - Ch 4
+  optional:
+  logistics: <br/>  Project teams due
+
+- date: Thu 02/15/24
+  lecturer:
+    - Arman
+  title:
+    - Building blocks of Neural Networks for NLP
+    - Taks specific neural network architectures
+    - RNNs
+  slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/ERiCgJVHJoxMreRomSuVlHkBc2IfZPv7K6JRV7JfsSW5OQ?e=1HGdDK
+  readings:
+    - Goldberg Chapter 9
+  optional:
+  logistics: <strong>2/16</strong> HW 2 out
+
+- date: Tues 02/20/24
+  lecturer:
+    - Arman
+  title:
+    - RNNs (contd.)
+    - Machine translation
+  slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EaMBM49iy99OgSxtKwY_07QBM5Yv13WmZKo6YJQxkyHs0Q?e=gliNKB
+  annotated:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EeLD7NmoG3NBi3s-KTVq5AYBwOWu0tRpmd-HH43OlJ0jqg?e=K7tZlV
+  readings:
+    - Understanding LSTM Networks (Christopher Olah) <a href="https://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">[link]</a>
+    - Eisenstein, Chapter 18
+  optional:
+    - Neural Machine Translation and Sequence-to-sequence Models- A Tutorial (Graham Neubig) <a href="https://arxiv.org/pdf/1703.01619.pdf" target="_blank">[link]</a>
+  logistics:
+
+- date: Thu 02/22/24
+  lecturer:
+  title:
+    - Machine translation (contd.)
+    - Attention
+    - Transformers
+  slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/Ef_iXtVCYUpFh9hVl3GaGe0BhoRmh7MOPVh6c6Qv6I0zSQ?e=e0aPOG
+  annotated:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EePuq5VkMJJCtBCyDTrskIIBflMMkGhhPKCxHzWJz8NHew?e=E6yyjb
+  readings:
+    - Statistical Machine Translation (Koehn) <a href="https://www.statmt.org/book/" target="_blank">[link]</a>
+    - Neural Machine Translation and Sequence-to-sequence Models- A Tutorial (Graham Neubig) <a href="https://arxiv.org/pdf/1703.01619.pdf" target="_blank">[link]</a>
+    - Learning to Align and Translate with Attention (Bahdanau et al., 2015) <a href="https://arxiv.org/pdf/1409.0473.pdf" target="_blank">[link]</a>
+    - Luong et al. (2015) Effective Approaches to Attention-based Neural Machine Translation <a href="https://arxiv.org/pdf/1508.04025.pdf" target="_blank">[link]</a>
+    - Attention is All You Need (Vaswani et al., 2017) <a href="https://arxiv.org/pdf/1706.03762.pdf" target="_blank">[link]</a>
+    - Illustrated Transformer <a href="http://jalammar.github.io/illustrated-transformer/" target="_blank">[link]</a>
+  optional:
+  logistics:
+
+- date: Tues 02/27/24
+  lecturer:
+    - Arman
+  title:
+    - Transformers (cont'd.)
+    - Language modeling with Transformers
+  slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EV6MUthnR-NEtmB9hN41Ep8Bk5OrdhouipG_c2_y2lUFew?e=QsApaQ
+  annotated:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/ES4GimdpF2dPkI9t9xHVncgBD717y1RAvXTFpaoJt1hlPA?e=uJx3cB
+  readings:
+    - Illustrated Transformer <a href="http://jalammar.github.io/illustrated-transformer/" target="_blank">[link]</a>
+    - Attention is All You Need (Vaswani et al., 2017) <a href="https://arxiv.org/pdf/1706.03762.pdf" target="_blank">[link]</a>
+    - The Annotated Transformer (Harvard NLP) <a href="http://nlp.seas.harvard.edu/2018/04/03/attention.html" target="_blank">[link]</a>
+    - GPT-2 (Radford et al., 2019) <a href="https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf" target="_blank">[link]</a>
+  optional:
+  logistics:
+
+- date: Thu 02/29/24
+  lecturer:
+    - Arman
+  title:
+    - Pre-training and transfer learning
+    - Objective functions for pre-training
+    - Model architectures
+    - ELMO, BERT, GPT, T5
+  slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EesU400ugbNDsBX5g-_FKOEBTvvZi2IaLAOE_bFitKEyLQ?e=LtwxP4
+  readings:
+    - The Illustrated BERT, ELMo, and co. (Jay Alammar) <a href="http://jalammar.github.io/illustrated-bert/" target="_blank">[link]</a>
+    - BERT- Pre-training of Deep Bidirectional Transformers for Language Understanding (Devlin et al., 2018) <a href="https://arxiv.org/pdf/1810.04805.pdf" target="_blank">[link]</a>
+    - GPT-2 (Radford et al., 2019) <a href="https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf" target="_blank">[link]</a>
+  optional:
+  logistics: <strong>3/1</strong> HW 2 due
+
+- date: Tues 03/05/24
+  lecturer:
+    - Arman
+  title: >
+    <strong> Midterm Exam </strong>
+
+- date: Thu 03/07/24
+  lecturer:
+    - Arman
+  title:
+    - Transfer learning (contd.)
+    - Encoder-decoder pretrained models
+    - Architecture and pretraining objectives
+  slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EWFSPYPD7QBKriHea-5ijAABYyiHgxbb6vGYzu8KNKo8bg?e=KpjeEE
+  readings:
+    - T5- Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (Raffel et al., 2020) <a href="https://arxiv.org/pdf/1910.10683.pdf" target="_blank">[link]</a>
+    - BART- Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension (Lewis et al., 2019) <a href="https://arxiv.org/pdf/1910.13461.pdf" target="_blank">[link]</a>
+    - What Language Model Architecture and Pretraining Objective Work Best for Zero-Shot Generalization? (Wang et al, 2022) <a href="https://arxiv.org/abs/2204.05832" target="_blank">[link]</a>
+  optional:
+  logistics:
+    - <strong>3/8</strong> Project proposals due;<br/> <strong>3/10</strong> HW 3 out
+
+- date: 03/08/24 - 03/24/24
+  title: >
+    <strong> Spring recess - No classes </strong>
+
+- date: Tues 03/26/24
+  lecturer:
+    - Arman
+  title:
+    - Decoding and generation
+    - Large language models and impact of scale
+    - In-context learning and prompting
+  slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EUrW0FlXakBEu946oVPDFrYBtiWwHrVUePekVXtZCwfJ9A?e=eNwrII
+  readings:
+    - The Curious Case of Neural Text Degeneration (Holtzman et al., 2019) <a href="https://arxiv.org/pdf/1904.09751.pdf" target="_blank">[link]</a>
+    - How to generate text- using different decoding methods for language generation with Transformers <a href="https://huggingface.co/blog/how-to-generate" target="_blank">[link]</a>
+    - Scaling Laws for Neural Language Models (Kaplan et al., 2020) <a href="https://arxiv.org/pdf/2001.08361.pdf" target="_blank">[link]</a>
+    - Training Compute-Optimal Large Language Models (Hoffmann et al., 2022) <a href="https://arxiv.org/pdf/2203.15556.pdf" target="_blank">[link]</a>
+    - GPT3 paper - Language Models are Few-Shot Learners (Brown et al., 2020) <a href="https://arxiv.org/pdf/2005.14165.pdf" target="_blank">[link]</a>
+  optional:
+  logistics:
+
+- date: Thu 03/28/24
+  guest:
+    - name: Akari Asai
+      photo: https://akariasai.github.io/assets/img/prof_pic-480.webp
+      profile: https://akariasai.github.io/
+      affil: University of Washington
+  title:
+    - Retreival-Augmented Language Models
+  recitation:
+  logistics:
+
+- date: Tues 04/02/24
+  lecturer: Arman
+  title:
+    - In-context learning and prompting (cont'd)
+    - Improving instruction following and few-shot learning
+  slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EQoSrh0Da9JNjU5dtYpDMoUBuhfSWX_1nNitX4onxm4B8A?e=aTHeYV
+  readings:
+    - Few-Shot Learning with Language Models (Brown et al., 2020) <a href="https://arxiv.org/pdf/2005.14165.pdf" target="_blank">[link]</a>
+    - Finetuned Language Models Are Zero-Shot Learners (Wei et al., 2022) <a href="https://arxiv.org/abs/2109.01652" target="_blank">[link]</a>
+    - Multitask Prompted Training Enables Zero-Shot Task Generalization (Sanh et al., 2021) <a href="https://arxiv.org/abs/2110.08207" target="_blank">[link]</a>
+    - Scaling Instruction-Finetuned Language Models (Chung et al., 2022) <a href="https://arxiv.org/abs/2210.11416" target="_blank">[link]</a>
+    - Are Emergent Abilities of Large Language Models a Mirage? (Sha et al., 2023) <a href="https://arxiv.org/pdf/2304.15004.pdf" target="_blank">[link]</a>
+    - Emergent Abilities of Large Language Models (Wei et al., 2022) <a href="https://arxiv.org/abs/2206.07682" target="_blank">[link]</a>
+  optional:
+  logistics: <strong>4/2</strong> HW3 due;
+
+- date: Thu 04/04/24
+  title:
+    - Reinforcement learning from Human Feedback
+    - Alignment
+  slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EdDHt6zppENDrml1Vxej_AYBu2D_oDZFfTA-lsX3rCbA1Q?e=DOCNxU
+  readings:
+    - Training language models to follow instructions with human feedback (Ouyang et al., 2022) <a href="https://arxiv.org/abs/2203.02155" target="_blank">[link]</a>
+    - Fine-Tuning Language Models from Human Preferences (Ziegler et al., 2019) <a href="https://arxiv.org/abs/1909.08593" target="_blank">[link]</a>
+    - Direct Preference Optimization- Your Language Model is Secretly a Reward Model (Rafailov et al., 2023) <a href="https://arxiv.org/abs/2305.18290" target="_blank">[link]</a>
+    - RLAIF- Scaling Reinforcement Learning from Human Feedback with AI Feedback (Lee et al., 2023) <a href="https://arxiv.org/abs/2309.00267" target="_blank">[link]</a>
+  optional:
+  logistics: HW 4 out 4/7
+
+- date: Tues 04/09/24
+  guest:
+    - name: Luca Soldaini
+      photo: https://soldaini.net/personal-me/me-512.webp
+      profile: https://soldaini.net/
+      affil: Allen Institute for AI
+  title:
+    - The Quest to build an (O)pen (L)anguage (Mo)del
+  slides:
+    - https://docs.google.com/presentation/d/1UKTtRYWD43mhPAX9CRmp-uLa7fuw1vO4yp7JoOFrZzU/edit
+  readings:
+    - OLMo- Accelerating the Science of Language Models (Groeneveld et al., 2024) <a href="https://arxiv.org/abs/2402.00838" target="_blank">[link]</a>
+    - Dolma- an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research <a href="https://arxiv.org/abs/2402.00159" target="_blank">[link]</a>
+  optional:
+  logistics:
+
+- date: Thu 04/11/24
+  lecturer: Arman
+  title:
+    - AI safety, security, and ethics
+    - Privacy and societal implications
+  slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/ERYEYC_okGxDsxuwbsSNMT4B8pMf3H5HFu3c6zph2bq3kA?e=GJaX6C
+  readings:
+  optional:
+  logistics:
+
+- date: Tues 04/16/24
+  guest:
+    - name: Jason Weston
+      photo: https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/91786928_152069292784617_4696006152117288960_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e280be&_nc_ohc=uGQPL_NdnXsAX_HK9rl&_nc_ht=scontent-iad3-1.xx&oh=00_AfDqLkDNUvoKyOgPNrYVtrFzjSedFaib9Am-CBZp-C2R2Q&oe=65E34C10
+      profile: https://ai.meta.com/people/jason-weston/
+      affil: Meta AI
+  title:
+    - Self-Alignment of Large Language Models
+  slides:
+  readings:
+    - Self-Alignment with Instruction Backtranslation (Li et al., 2023) <a href="https://arxiv.org/abs/2308.06259" target="_blank">[link]</a>
+    - Self-Rewarding Language Models (Yuan et al., 2024) <a href="https://arxiv.org/abs/2401.10020" target="_blank">[link]</a>
+  optional:
+  logistics:
+
+- date: Thu 04/18/24
+  lecturer: Arman
+  title:
+    - Efficiency in large language models
+    - Efficient inference and quantization
+    - Efficient transformers
+  slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/ESj4ltg3zldMkUtbEYNpu8IBEPW5yz5qu-xG6STzWXl8aQ?e=bEBuUL
+  readings:
+  optional:
+  logistics:
+
+- date: Tues 04/23/24
+  lecturer: Arman
+  title:
+    - Project presentations
+  slides:
+  readings:
+  optional:
+  logistics:
+
+- date: Thu 04/25/24
+  lecturer: Arman
+  title:
+    - Project presentations
+  logistics:
+    - Last meeting of the class; <br/>  <strong>4/28</strong> HW 4 due <br/> <strong>5/8</strong> Final project due
+## Template for guest lectures:
+# - date: Thu 11/30/23
+#   title: Towards Large Foundation Vision Models
+#   guest:
+#     - name: Neil Houlsby
+#       profile: https://neilhoulsby.github.io/
+#       photo: https://neilhoulsby.github.io/profile.jpg
+#       affil: Google Deepmind
+#   readings:
+#     - Scaling Vision Transformers to 22 Billion Parameters (2023) <a href="https://arxiv.org/abs/2302.05442" traget="_blank">[link]</a>
+#     - From Sparse to Soft Mixtures of Experts (2023) <a href="https://arxiv.org/pdf/2308.00951.pdf" traget="_blank">[link]</a>
+#     - Scaling Vision Transformers (2021) <a href="https://arxiv.org/abs/2106.04560" traget="_blank">[link]</a>
+#   optional:
+#     - PaLI-X- On Scaling up a Multilingual Vision and Language Model <a href="https://arxiv.org/pdf/2305.18565.pdf" traget="_blank">[link]</a>
+#     - PaLI- A Jointly-Scaled Multilingual Language-Image Model <a href="https://arxiv.org/abs/2209.06794" traget="_blank">[link]</a>
+#   slides:

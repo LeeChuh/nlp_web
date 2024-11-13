@@ -6,7 +6,7 @@ description: CPSC 477/577 • Spring 2024 • Yale University
 logo: yale-logo.png
 news: true
 ---
-Welcome to CPSC 477/577 Natural Language Processing!
+Welcome to CPSC 477/577!
 
 This course provides a deep dive into Natural Language Processing (NLP), a pivotal and dynamic subfield of Artificial Intelligence (AI) that focuses on the interaction between computers and human language.
 
